@@ -13,6 +13,8 @@ void clearConsole() {
 }
 
 int main() {
+    clearConsole();
+    
     printf("Why I hate C\nBy Polokalap\n");
 
     char lang[10];
