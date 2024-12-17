@@ -1,3 +1,9 @@
-run it from here/innen futtasd
+The code is in whyihate.c
 
-https://www.programiz.com/online-compiler/4Vr7wq7UXGKpo
+A kód a whyihate.c -ben van.
+
+use a tool like this
+https://www.programiz.com/c-programming/online-compiler/
+
+Használj egy ilyen toolt
+https://www.programiz.com/c-programming/online-compiler/
